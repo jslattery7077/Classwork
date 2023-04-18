@@ -1,0 +1,40 @@
+{
+  "867367446": {
+    "accountOnHold": false,
+    "accountHolder": {
+      "isMarried": false,
+      "firstName": "John",
+      "lastName": "Slattery",
+      "currentAge": 12,
+      "isDeaf": false,
+      "isDeceased": false,
+      "isBlind": false
+    },
+    "isSavingsAccount": false,
+    "password": "P@ssword1",
+    "dateCreated": "01\/05\/2023",
+    "currentBalance": 0.0,
+    "holdReason": null,
+    "withdrawLimit": 0.0,
+    "accountNumber": 867367446
+  },
+  "867613579": {
+    "accountOnHold": false,
+    "accountHolder": {
+      "isMarried": true,
+      "firstName": "Janko",
+      "lastName": "User",
+      "currentAge": 12,
+      "isDeaf": false,
+      "isDeceased": false,
+      "isBlind": true
+    },
+    "isSavingsAccount": true,
+    "password": "P@ssword1",
+    "dateCreated": "01\/05\/2023",
+    "currentBalance": 0.0,
+    "holdReason": null,
+    "withdrawLimit": 0.0,
+    "accountNumber": 867613579
+  }
+}
